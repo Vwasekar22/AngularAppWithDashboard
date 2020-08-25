@@ -1,4 +1,4 @@
-const root = "http://localhost:7070";
+const root = "http://http://192.168.40.131:81";
 
 export const ENDPOINTS = {
     //auth.service.ts used end points:->
